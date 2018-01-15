@@ -1,0 +1,5 @@
+/Users/veslava/Projects/BodyIndex/BodyIndex/bin/Debug/BodyIndex.exe
+/Users/veslava/Projects/BodyIndex/BodyIndex/bin/Debug/BodyIndex.pdb
+/Users/veslava/Projects/BodyIndex/BodyIndex/obj/x86/Debug/BodyIndex.csproj.CoreCompileInputs.cache
+/Users/veslava/Projects/BodyIndex/BodyIndex/obj/x86/Debug/BodyIndex.exe
+/Users/veslava/Projects/BodyIndex/BodyIndex/obj/x86/Debug/BodyIndex.pdb
